@@ -1,0 +1,78 @@
+input {
+    margin: 0 auto;
+    display: block;
+    color: black;
+    }
+
+button {
+    margin: 0 auto;
+    display: block;
+    color: black;
+    margin-top: 10px;
+    }
+
+img {
+	width: 310px;
+    margin: 10px;
+    height: 320px;
+}
+
+p {
+text-align: center;
+font-family:'Rajdhani';
+font-size: 18px;
+}
+
+h1 {
+text-align: center;
+font-family:'Rajdhani';
+margin-left: 15px;
+}
+
+.picture {
+width: 500px;
+margin: 0 auto;
+display: block;
+margin-left: -20px;
+}
+
+.result{
+text-align: center;
+font-family:'Rajdhani';
+font-size: 20px;
+}
+
+.results{
+margin: 0 auto;
+display: block;
+margin-left: 60px;
+}
+
+.w3-container {padding: 0 170px;
+background-color:white;
+margin: 0 210px;
+border: 6px solid;}
+
+.counter{
+text-align: center;
+margin-top: 10px;
+font-family:'Rajdhani';
+}
+
+body {
+background-image: url('https://www.rebeccayarros.com/wp-content/uploads/2014/02/beach-2-1.gif');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #ECC6D1;
+    color: black;
+    border-radius: 5px;
+    font-family: 'Rajdhani';
+    padding: 3px 8px;
+}
+
